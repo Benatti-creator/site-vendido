@@ -1,0 +1,9 @@
+Coloque aqui os materiais oficiais do Site Vendido (veja MATERIAIS.md na raiz do projeto):
+
+  capa.webp         capa do e-book (1200 x 1697)
+  mockup.webp       mockup do produto, fundo transparente (tem prioridade sobre a capa)
+  vsl-thumb.webp    thumbnail do vídeo (1600 x 900)
+  vsl.mp4           vídeo de vendas, se for hospedado no site
+  previas/          páginas internas reais (listar em previewPages no src/config/site.ts)
+
+Os nomes acima já estão configurados em src/config/site.ts.
